@@ -10,7 +10,7 @@
 // "3 - China"
 // "4 - EUA"
 // "5 - Brasil"
-// ```
+
 
 const lutadores = ["Ranking top 5 lutadores","Walderley Silva", "Gilbert Yvel", "Gerard Gordeau", "Frank Mir", "Alistair Overeem"]
 
